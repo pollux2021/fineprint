@@ -2,7 +2,16 @@
 
 fingerprintjs 封装, 获取浏览器 visitorId
 
-### 使用
+
+### ES6
+Available as an [npm package](https://www.npmjs.com/package/fineprint)
+```bash
+// with npm
+npm install fineprint
+
+// with yarn
+yarn add fineprint
+```
 
 ```javascript
 import { getResultSync, getVisitorIdSync } from "fineprint"
@@ -17,6 +26,7 @@ import { getResultSync, getVisitorIdSync } from "fineprint"
 ```
 
 ### 浏览器
+download [DEMO](https://github.com/pollux2021/fineprint/releases)
 ```html
 <script src="./dist/fineprint.min.js"></script>
 <script>
