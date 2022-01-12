@@ -2,8 +2,11 @@
 
 fingerprintjs 封装, 获取浏览器 visitorId
 
-### 使用
-
+### ES6
+```code
+npm install fineprint
+yarn add fineprint
+```
 ```javascript
 import { getResultSync, getVisitorIdSync } from "fineprint"
 
