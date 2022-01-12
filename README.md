@@ -26,6 +26,7 @@ import { getResultSync, getVisitorIdSync } from "fineprint"
 ```
 
 ### 浏览器
+download [DEMO](https://github.com/pollux2021/fineprint/releases)
 ```html
 <script src="./dist/fineprint.min.js"></script>
 <script>
